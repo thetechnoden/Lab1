@@ -1,4 +1,4 @@
-﻿// Hello World! program
+﻿// Hello Zazymia! program
 using System;
 
 namespace HelloWorld
@@ -7,7 +7,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Zazymia!");
         }
     }
 }

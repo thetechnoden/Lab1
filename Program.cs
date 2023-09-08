@@ -7,7 +7,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Zazymia! Привіт Зазим'я!");
+            Console.WriteLine("Hello Zazymia! Happy 2007!!!");
         }
     }
 }

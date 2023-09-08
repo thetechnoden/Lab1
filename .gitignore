@@ -1,1 +1,2 @@
-/Lecture01/.vs
+# ignore all files in any directory named build
+build/Lection01/.vs

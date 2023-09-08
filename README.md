@@ -4,4 +4,3 @@
 * * *
 ## Barbon D.O.
 * * *
-<blockquote><p>Виконую лабораторну роботу</p></blockquote>
